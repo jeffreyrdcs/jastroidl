@@ -1,3 +1,4 @@
+;function jsexatodeg, ra_h, ra_m, ra_s, de_h, de_m, de_s
 ;+
 ; NAME:
 ;       JSEXATODEG

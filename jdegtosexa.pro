@@ -1,3 +1,4 @@
+;function jdegtosexa, ra_deg, dec_deg
 ;+
 ; NAME:
 ;       JDEGTOSEXA
